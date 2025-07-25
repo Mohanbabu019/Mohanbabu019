@@ -20,7 +20,7 @@ Database: SQL
 Cloud Platforms :Heroku and AWS
 Devops Tools: Docker, Kubernetes, Jenkins, CI/CD Pipeline
 
-Connect With me:
+### Connect With me:
 
 <a href="https://www.linkedin.com/in/karanam-mohanbabu">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="30" />

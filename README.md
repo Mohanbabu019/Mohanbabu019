@@ -12,12 +12,11 @@ Throughout my career, I have successfully contributed to diverse projects, showc
 🚀Core Competencies: Data Analytics II Data Science || Machine Learning || NLP OCR || LLM's || Deep Learning || Devops
 
 🛠️Technical Expertise:
-Programming languages : Python, R, HTML, CSS, C++, and C
+Programming languages : Python
 Libraries : Scikit-learn, Numpy , Pandas, Matplotlib, Seaborn, Plotly and Streamlit.
-Framework: Flask
-Tools: Jupyter, Spyder, Visual Studio Code, R Studio, Tableau, Jira, Git, Bitbucket, Source Tree
-Database: SQL
-Cloud Platforms :Heroku and AWS
+Tools: Jupyter, Spyder, Visual Studio Code, Tableau, Jira, Git, Bitbucket, Source Tree
+Database: PostgreSQL
+Cloud Platforms :Azure and AWS
 Devops Tools: Docker, Kubernetes, Jenkins, CI/CD Pipeline
 
 ### Connect With me:

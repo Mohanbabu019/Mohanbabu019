@@ -5,7 +5,7 @@
                                                  Passionate Data Scientist
 📊 Welcome to my profile! I'm delighted to have you here. Let me provide you with a glimpse into my background and expertise.
 
-👩‍💻 With over 3.8 years of industry experience as a Jr. Data Scientist, I specialize in developing highly scalable applications and services in the field of Data Science and Machine Learning/Deep Learning.
+👩‍💻 With over 3.8 years of industry experience in IT , I specialize in developing highly scalable applications and services in the field of Data Science and Machine Learning/Deep Learning.
 
 Throughout my career, I have successfully contributed to diverse projects, showcasing my proficiency in understanding and analyzing data across various domains. I possess a strong aptitude for visualizing data, constructing best-fit models, and providing valuable insights to address complex business problems.
 

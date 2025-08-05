@@ -9,15 +9,14 @@
 
 Throughout my career, I have successfully contributed to diverse projects, showcasing my proficiency in understanding and analyzing data across various domains. I possess a strong aptitude for visualizing data, constructing best-fit models, and providing valuable insights to address complex business problems.
 
-🚀Core Competencies: Data Analytics II Data Science || Machine Learning || NLP OCR || LLM's || Deep Learning || Devops
+🚀Core Competencies: Data Analytics II Data Science || Machine Learning || NLP OCR || Deep Learning
 
 🛠️Technical Expertise:
 Programming languages : Python
-Libraries : Scikit-learn, Numpy , Pandas, Matplotlib, Seaborn, Plotly and Streamlit.
-Tools: Jupyter, Spyder, Visual Studio Code, Tableau, Jira, Git, Bitbucket, Source Tree
+Libraries : Scikit-learn, Numpy , Pandas, Matplotlib and Seaborn.
+Tools: Jupyter, Spyder, Visual Studio Code, Tableau, Jira, Git.
 Database: PostgreSQL
-Cloud Platforms :Azure and AWS
-Devops Tools: Docker, Kubernetes, Jenkins, CI/CD Pipeline
+Cloud Platforms :AWS
 
 ### Connect With me:
 
